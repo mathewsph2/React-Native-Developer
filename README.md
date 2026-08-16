@@ -25,4 +25,4 @@
 
 
 
-[💻 Formação DIO](https://web.dio.me/track/formacao-react-native-developer "Formação React Native Developer")
+[Formação React Native Developer](https://web.dio.me/track/formacao-react-native-developer) da [DIO](https://www.dio.me).
