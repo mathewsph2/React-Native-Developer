@@ -1,5 +1,6 @@
 # Formação React Native Developer
 
+![React Native Developer](react_native.png)
 
 ## 🏁 Trilha
 
